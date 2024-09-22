@@ -22,7 +22,7 @@ Without a word, Smith gestures for them to follow. They enter the dimly lit buil
   
 At the top, they find a small, almost entirely blackened room. Two flickering candles cast weak light over a frail man lying in bed, his condition poor and unsettling. His head is crowned by a fez, unnervingly attached as if fused to his skin. Another figure, Dr. Nils Hobbs, stands nearby. Despite his expertise with the police, his investigations into the man’s ailment have uncovered nothing.  
   
-Professor Smith begins his explanation, his voice low and urgent. Four days prior, a well-dressed man named [[Hieronymus Menkaph |Mr. Leeds]] rented this very room from Mrs. Grim, the elderly landlady. He paid her a considerable sum—more than enough to keep her from asking too many questions. Shortly after, men wearing fezzes brought a semi-conscious body into the room, locking the door behind them. Only those strange men were seen coming and going.  
+Professor Smith begins his explanation, his voice low and urgent. Four days prior, a well-dressed man named [[Mr. Leeds|Mr. Leeds]] rented this very room from Mrs. Grim, the elderly landlady. He paid her a considerable sum—more than enough to keep her from asking too many questions. Shortly after, men wearing fezzes brought a semi-conscious body into the room, locking the door behind them. Only those strange men were seen coming and going.  
   
 By the second night, the other tenants began complaining of strange noises—scratching, murmurs in the dark. By the third night, the sounds escalated to shrieks and heavy thumping, disturbing even the most hardened residents. When questioned, Mr. Leeds claimed they were treating his drug-addicted brother. But tonight, the fourth night, the sounds had become ungodly, impossible to ignore. In desperation, Mrs. Grim called the police.  
   
@@ -42,7 +42,7 @@ Nathaniel swiftly administers first aid to the unconscious Dr. Hobbs, stabilizin
   
 That night, Lewis and Nathaniel have a quiet, uneventful evening, though the strange events linger in their minds. Francis, however, is tormented by nightmares—visions of men in fezzes and dark, faceless shadows. The fez seems to exude a sinister energy, unsettling him throughout the night.  
   
-By morning, Professor Smith is mysteriously absent, but as planned, the three men meet at noon at [[the Oriental Club]], carrying the weight of their eerie experiences.  
+By morning, Professor Smith is mysteriously absent, but as planned, the three men meet at noon at [[The Oriental Club]], carrying the weight of their eerie experiences.  
   
 At the Oriental Club, Professor Smith briefs the group on his recent communication with [[Professor Demir |Professor Adnan Demir]] in Constantinople. Smith reveals that the body they encountered is that of [[Matthew Pook]], a student of Demir. Pook had been investigating a cult leader named [[Menkaph]] and had stolen a dangerous artifact known as the Blood Red Fez of Menkaph. According to Demir, this fez must be taken to Constantinople and destroyed to prevent further harm.  
   

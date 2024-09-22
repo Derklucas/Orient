@@ -4,4 +4,4 @@ draft: false
 tags:
   - Investigator
 ---
-**Player Name:** Franl
+**Player Name:** Frank
