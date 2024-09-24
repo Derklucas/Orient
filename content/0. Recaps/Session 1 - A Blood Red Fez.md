@@ -6,6 +6,8 @@ tags:
   - Prologue
   - London
 ---
+[[Session 2 - A Blood Red Fez II |Next Session >]]
+
 It is close to midnight on May 15th, 1893. The night is warm, but the air is thick with fog, obscuring the narrow streets of London. Inside his modest study, [[Captain Lewis Pinkerton]] sits in a worn leather chair, a pipe smoldering between his fingers as he peruses a book on 17th-century warfare. The silence of the night is broken by a sharp knock at the door. He gestures for his butler, Alfred, who soon returns with a message: a young man stands at the entrance, bearing a note.  
   
 At the same time, in a dimly lit hotel room across the city, Dr. [[Nathaniel Stahr]] sits at his desk, scribbling in his journal. The soft glow of the gas lamp barely cuts through the fog pressing against the window. A knock echoes from his door, and he opens it to find a boy with a similar note.  
