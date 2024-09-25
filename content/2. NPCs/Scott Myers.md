@@ -6,9 +6,9 @@ tags:
   - Orient_Express
 ---
 > [!infobox]
-> ![[Ellie Meyers.png |150]]
-> **Age:** 19
-> **Title:** *English Newlywed*
+> ![[Scott Myers.png |150]]
+> **Age:** 22
+> **Title:** *English Newlywed and Dupe of the Blood Red Fez*
 > **Status:** Alive
 
-Elizabeth and [[Scott Myers |her new husband]] were preparing a honeymoon in Paris, and then on the Orient Express to Constantinople, when her husband fell under the spell of Menkaph and was persuaded to wear the Fez. He is now in a coma. Elizabeth is living a nightmare, watching him slip away, hearing the terrible whispering of the Fez right at her ear in the small compartment, as she travels further away from her loved ones in the company of terrible people who are prepared to sacrific her husband. She spends most of the time in tears and is shepherded by [[Hieronymus Menkaph |Menkaph]]
+Myers is a young fool fascinated by the occult, who has fallen under the influence of [[Hieronymus Menkaph |Menkaph]] while on his honeymoon in Paris. He is now an unwilling wearer of the Blood Red Fez and his sanity and life are slowly ebbing away. Unless the investigators are lucky and generous, he is likely doomed. In former life he was a dilettante son of recherché a wealthy banker, who hid his interest in the from his father.
