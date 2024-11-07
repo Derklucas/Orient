@@ -1,5 +1,5 @@
 ---
-title: Captain Lewis Pinkertom
+title: Captain Lewis Pinkerton
 draft: false
 tags:
   - Investigator

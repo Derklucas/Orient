@@ -7,7 +7,7 @@ tags:
   - London
   - Paris
 ---
-[[Session 1 - A Blood Red Fez |< Previous Session]]
+[[Session 1 - A Blood Red Fez |< Previous Session]] | [[Session 3 - A Blood Red Fez III |Next Session >]]
 
 At precisely 9:30, [[Nathaniel Stahr]] and [[Captain Lewis Pinkerton]] arrive at Victoria Station. The grand terminal buzzes with the energy of travelers, steam from the engines billowing in the cool morning air. They had received a telegram earlier from [[Francis Butcher]], informing them he would miss the train due to an urgent errand, leaving Stahr, Pinkerton, and Alfred, the Captain's faithful butler, to embark alone. As the station clock strikes 10:00, the train departs with a punctual hiss of steam, gliding out of the city.
 
